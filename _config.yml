@@ -1,0 +1,193 @@
+# Site
+repository: sproogen/resume-theme
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Michael Roth
+title: Site Reliabilty Engineer
+email: mikeroth.sd@gmail.com
+website: https://iammikeroth.com
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+# twitter_username: jekyll
+github_username: mikeroth
+# stackoverflow_username: jekyll
+# dribbble_username: jekyll
+# facebook_username: jekyll
+# flickr_username: jekyll
+# instagram_username: jekyll
+linkedin_username: mikeroth83
+# xing_username: jekyll
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+  - title: iammikeroth.com
+    icon: fas fa-globe
+    url: https://www.iammikeroth.com
+  - title: PDF copy of my resume
+    icon: far fa-file
+    url: https://github.com/mikeroth/mikeroth.github.io/blob/main/resume.pdf
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/profile.jpeg
+about_content: | # this will include new lines to allow paragraphs
+  👋 Hi! I'm Mike and I'm a Site Reliabilty Engineer. I use my well-honed skills to build solutions, improve companies' overall
+  efficiency, performance, and security. Recognized as an efficient and creative professional with solid multitasking capabilities.
+  I'm a skilled troubleshooter comfortable managing systems and projects in a range of IT environments. Aside from automating everything,
+  I also have experience in making software and web apps which are still heavily used today. Also since I have worked at a number of companies I
+  have gained alot of valuable teamwork and leadership skills.
+
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Tacos!</mark>
+
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Autodesk
+        link: autodesk.com
+        link_text: autodesk.com
+        sub_title: Principal Site Reliability Engineer
+        caption: February 2016 - Present
+        quote: >
+          Make anything but make it immutable!
+        description: |
+          * Developed automation processes to enable teams to deploy,
+          manage, configure, test, scale and monitor their applications through the use of tooling or scripting reducing the time to
+          get features in production. 
+          * Improved automated test and simulation frameworks. 
+          * Built and deployed Docker containers to
+          break up monolithic applications into microservices, improving developer workflow, increasing scalability, and optimizing
+          speed. 
+          * Wrote custom monitoring plugins and integrated monitoring methods into deployment processes to develop self-healing
+          solutions.
+          * Infrastrucute as code: Every project I worked on was fully automated and could not be manually setup. 
+          * Owned production alerts and acted as the point of contact for all infrastructure or application incidents.
+          * Saved the company millions of dollars by removing uneccessary resources in AWS and rightsizing aws resources.
+          * Collaborated with peers on the development of new automation tools and services used in the management and maintenance
+          of various virtual environments.
+          * Consulted and contributed to system architecture. 
+          * Developed and automated standard operating procedures around common failure scenarios. 
+          * Monitored, analyzed, and reported performance statistics for cloud hosted environments and applications. 
+          * Developed application features, improvements.
+          * Wrote clean, well-documented, and resilient code.
+          * Managed and maintained databases for MySQL, Postgres, and DynamoDB.
+          * Maintained, and scaled infrastructure for QA, Dev, Stage, and Production environments for 5 million monthly users.
+      - layout: left
+        title: Taos
+        link: taos.com
+        link_text: taos.com
+        sub_title: DevOps Engineer
+        caption: September 2014 - February 2016
+        quote: >
+          Out with the old, in with the new.
+        description: |
+          * Worked at Autodesk on their SAAS team. 
+          * Converted their monitoring system, metrics, logging, and improved communication throughout different teams. 
+          * Deployed and maintained a handful company applications.
+          * Helped engineers with any automation issues.
+      - layout: left
+        title: Advantis Global
+        sub_title: DevOps Engineer
+        caption: April 2014 - September 2014
+        quote: >
+          Different colored apples everywhere.
+        description: |
+          * Assisted development team on creating an internal tool that monitored Apple's entire phone support system.
+          * Created a Chef Server in a tight environment from source so it would run in production. 
+          * Assisted different departments on, on-boarding their projects.
+      - layout: left
+        title: OneHealth Solutions
+        sub_title: Junior DevOps Engineer
+        caption: Jan 2011 - September 2013
+        quote: >
+          The DevOps philosophy was bestowed upon me here.
+        description: |
+          * Created and managed security systems for the Building, Network, Workstations, and Servers. 
+          * Tested and troubleshooted hardware, software and network connectivity issues. 
+          * Documented installations, application/system maintenance, hardware devices and end user support. 
+          * Managed, defined, upheld Service Level Agreements and Enforced HIPAA compliance. 
+          * Performed basic workstation training and support for all employees.
+      - layout: left
+        title: Mellmo
+        link: roambi.it/en/
+        link_text: roambi.it/en/
+        sub_title: QA Engineer
+        caption: 2008 - 2010
+        quote: >
+          If you can think outside the box, you can find bugs for days.
+        description: |
+          * Tested web and mobile application. 
+          * Supported clients with software issues. 
+          * Built multiple virtual linux servers using different distros to test enterprise application builds.
+  - title: Technical Skills
+    layout: text
+    content: |
+      Here is a list of some of my skills:
+      - **Command Line Ninja!**
+      - **CI/CD:** Jenkins and RunDeck.
+      - **Cloud Platform:** AWS
+      - **Operating Systems:** Ubuntu, Debian, Centos and Red Hat.
+      - **APIs:** AWS, Slack, Jira, Confluence, ServiceNow, and PagerDuty.
+      - **Languages:** Bash, Ruby, Python, and Go.
+      - **Infrastructure as code:** Boto3, Terraform, and Cloudformation.
+      - **Configuration Management:** Chef/Chef Zero, Habitat, Packer, and Capistrano.
+      - **Testing:** Pytest, Selenium, Test-Kitchen, Vagrant and Inspec.
+      - **Data Science:** Pandas
+      - **Containers:** Docker and ECS.
+      - **Serverless:** Lambda
+      - **Web/Application Servers:** Apache, Nginx, Passenger, Puma, Unicorn, Flask, Quart, and Tomcat.
+      - **Databases:** MySQL, PostreSQL, and DynamoDB.
+      - **Message Broker:** RabbitMQ
+      - **ElastiCache:** Redis
+      - **Security:** LDAP, AuditD, OpenVas, Rkhunter, Chkrookit, Nexpose, Snort, Squirt, and ClamAV.
+      - **VCS:** Git and SVN.
+      - **Web Frameworks:** Rails, Jekyll, and Drupal.
+      - **System/Infra Monitoring:** ELK Stack, NewRelic, Nagios, Sensu, CloudWatch, Splunk, God, Monit, and Grafana.
+  - title: Certifications
+    layout: text
+    content: |
+      - **Coursera - Site Reliability Engineering: Measuruing and Managing Reliability**
+      - **CompTIA - Security+**
+      - **CompTIA - Project+**
+      - **CompTIA - A+**
+      - **CIW - Web Design Specialist**
+  - title: A Little More About Me
+    layout: text
+    content: |
+      Aside from my interests in work some of my other interests and hobbies are:
+      - 🤖 Arduinos
+      - 🌿 Gardening
+      - 🌮 Cooking
+      - 🚘 Cars
+      - 🎮 Street Fighter
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag

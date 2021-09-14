@@ -154,16 +154,16 @@ content:
     content: |
       Here is a list of some of my skills:
       - **Command Line Ninja!**
-      - **CI/CD:** Jenkins and RunDeck.
+      - **CI/CD:** Github Actions, Jenkins and RunDeck.
       - **Cloud Platform:** AWS
       - **Operating Systems:** Ubuntu, Debian, Centos and Red Hat.
       - **APIs:** AWS, Slack, Jira, Confluence, ServiceNow, and PagerDuty.
       - **Languages:** Bash, Ruby, Python, and Go.
-      - **Infrastructure as code:** Boto3, Terraform, and Cloudformation.
+      - **Infrastructure as code:** Boto3, Terraform, Cloudformation, AWS CDK, and Elastic Beanstalk.
       - **Configuration Management:** Chef/Chef Zero, Habitat, Packer, and Capistrano.
       - **Testing:** Pytest, Selenium, Test-Kitchen, Vagrant and Inspec.
       - **Data Science:** Pandas
-      - **Containers:** Docker and ECS.
+      - **Containers:** Docker, ECS, and Kubernetes.
       - **Serverless:** Lambda
       - **Web/Application Servers:** Apache, Nginx, Passenger, Puma, Unicorn, Flask, Quart, and Tomcat.
       - **Databases:** MySQL, PostreSQL, and DynamoDB.
@@ -172,7 +172,7 @@ content:
       - **Security:** LDAP, AuditD, OpenVas, Rkhunter, Chkrookit, Nexpose, Snort, Squirt, and ClamAV.
       - **VCS:** Git and SVN.
       - **Web Frameworks:** Rails, Jekyll, and Drupal.
-      - **System/Infra Monitoring:** ELK Stack, NewRelic, Nagios, Sensu, CloudWatch, Splunk, God, Monit, and Grafana.
+      - **System/Infra Monitoring:** ELK Stack, NewRelic, Nagios, Sensu, CloudWatch, Splunk, God, Monit, Grafana, and PagerDuty.
   - title: Certifications
     layout: text
     content: |

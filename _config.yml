@@ -60,14 +60,14 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-     - layout: left
+      - layout: left
         title: Lemonaid Health
         link: lemonaidhealth.com
         link_text: lemonaidhealth.com
         sub_title: Site Reliability Engineer
         caption: July 2021 - Present
         quote: >
-           To break down barriers that limit people from getting quality healthcare, empowering them to live happier lives.
+            To break down barriers that limit people from getting quality healthcare, empowering them to live happier lives.
         description: |
           * Responsibile for availability, performance, efficieny, change management, monitoring, emermgency response, and capacity planning.
           * Automating all the things via code.

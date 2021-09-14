@@ -60,12 +60,24 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+     - layout: left
+        title: Lemonaid Health
+        link: lemonaidhealth.com
+        link_text: lemonaidhealth.com
+        sub_title: Site Reliability Engineer
+        caption: July 2021 - Present
+        quote: >
+           To break down barriers that limit people from getting quality healthcare, empowering them to live happier lives.
+        description: |
+          * Responsibile for availability, performance, efficieny, change management, monitoring, emermgency response, and capacity planning.
+          * Automating all the things via code.
+          * Making sure we stick to our SLA.
       - layout: left
         title: Autodesk
         link: autodesk.com
         link_text: autodesk.com
         sub_title: Principal Site Reliability Engineer
-        caption: February 2016 - Present
+        caption: February 2016 - May 2021
         quote: >
           Make anything but make it immutable!
         description: |

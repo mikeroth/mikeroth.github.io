@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Michael Roth
-title: Site Reliabilty Engineer
+title: Site Reliability Engineer
 email: mikeroth.sd@gmail.com
 website: https://iammikeroth.com
 
@@ -48,11 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  👋 Hi! I'm Mike and I'm a Site Reliabilty Engineer. I use my well-honed skills to build solutions, improve companies' overall
+  👋 Hi! I'm Mike and I'm a Site Reliability Engineer. I use my well-honed skills to build solutions, improve companies' overall
   efficiency, performance, and security. Recognized as an efficient and creative professional with solid multitasking capabilities.
   I'm a skilled troubleshooter comfortable managing systems and projects in a range of IT environments. Aside from automating everything,
   I also have experience in making software and web apps which are still heavily used today. Also since I have worked at a number of companies I
-  have gained alot of valuable teamwork and leadership skills.
+  have gained a lot of valuable teamwork and leadership skills.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Tacos!</mark>
 
@@ -92,9 +92,9 @@ content:
           speed. 
           * Wrote custom monitoring plugins and integrated monitoring methods into deployment processes to develop self-healing
           solutions.
-          * Infrastrucute as code: Every project I worked on was fully automated and could not be manually setup. 
+          * Infrastructure as code: Every project I worked on was fully automated and could not be manually setup. 
           * Owned production alerts and acted as the point of contact for all infrastructure or application incidents.
-          * Saved the company millions of dollars by removing uneccessary resources in AWS and rightsizing aws resources.
+          * Saved the company millions of dollars by removing unnecessary resources in AWS and rightsizing aws resources.
           * Collaborated with peers on the development of new automation tools and services used in the management and maintenance
           of various virtual environments.
           * Consulted and contributed to system architecture. 
@@ -178,7 +178,7 @@ content:
   - title: Certifications
     layout: text
     content: |
-      - **Coursera - Site Reliability Engineering: Measuruing and Managing Reliability**
+      - **Coursera - Site Reliability Engineering: Measuring and Managing Reliability**
       - **CompTIA - Security+**
       - **CompTIA - Project+**
       - **CompTIA - A+**

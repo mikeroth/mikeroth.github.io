@@ -69,9 +69,11 @@ content:
         quote: >
             To break down barriers that limit people from getting quality healthcare, empowering them to live happier lives.
         description: |
-          * Responsibile for availability, performance, efficieny, change management, monitoring, emermgency response, and capacity planning.
-          * Automating all the things via code.
+          * Responsible for availability, performance, efficiency, change management, monitoring, emergency response, and capacity planning.
+          * Sticking to Infrastructure as code.
           * Making sure we stick to our SLA.
+          * Working with security to make sure we are compliant.
+          * Automating all the toil.
       - layout: left
         title: Autodesk
         link: autodesk.com

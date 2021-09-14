@@ -48,10 +48,10 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  👋 Hi! I'm Mike and I'm a Site Reliability Engineer. I use my well-honed skills to build solutions, improve companies' overall
-  efficiency, performance, and security. Recognized as an efficient and creative professional with solid multitasking capabilities.
+  👋 Hi! I'm Mike and I'm a Site Reliability Engineer. I use my well-honed skills to build solutions, improve companies' overall efficiency,
+  performance, and security. Recognized as an efficient and creative professional with solid multitasking capabilities.
   I'm a skilled troubleshooter comfortable managing systems and projects in a range of IT environments. Aside from automating everything,
-  I also have experience in making software and web apps which are still heavily used today. Also since I have worked at a number of companies I
+  I also have experience in making software and web apps that are still heavily used today. Also since I have worked at a number of companies I
   have gained a lot of valuable teamwork and leadership skills.
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Tacos!</mark>
@@ -92,14 +92,14 @@ content:
           speed. 
           * Wrote custom monitoring plugins and integrated monitoring methods into deployment processes to develop self-healing
           solutions.
-          * Infrastructure as code: Every project I worked on was fully automated and could not be manually setup. 
+          * Infrastructure as code: Every project I worked on was fully automated and could not be manually set up. 
           * Owned production alerts and acted as the point of contact for all infrastructure or application incidents.
           * Saved the company millions of dollars by removing unnecessary resources in AWS and rightsizing AWS resources.
           * Collaborated with peers on the development of new automation tools and services used in the management and maintenance
           of various virtual environments.
           * Consulted and contributed to system architecture. 
           * Developed and automated standard operating procedures around common failure scenarios. 
-          * Monitored, analyzed, and reported performance statistics for cloud hosted environments and applications. 
+          * Monitored, analyzed, and reported performance statistics for cloud-hosted environments and applications. 
           * Developed application features, improvements.
           * Wrote clean, well-documented, and resilient code.
           * Managed and maintained databases for MySQL, Postgres, and DynamoDB.
@@ -115,7 +115,7 @@ content:
         description: |
           * Worked at Autodesk on their SAAS team. 
           * Converted their monitoring system, metrics, logging, and improved communication throughout different teams. 
-          * Deployed and maintained a handful company applications.
+          * Deployed and maintained a handful of company applications.
           * Helped engineers with any automation issues.
       - layout: left
         title: Advantis Global
@@ -136,8 +136,8 @@ content:
         description: |
           * Created and managed security systems for the Building, Network, Workstations, and Servers. 
           * Tested and troubleshot hardware, software, and network connectivity issues. 
-          * Documented installations, application/system maintenance, hardware devices, and end user support. 
-          * Managed, defined, upheld Service Level Agreements and Enforced HIPAA compliance. 
+          * Documented installations, application/system maintenance, hardware devices, and end-user support. 
+          * Managed, defined, upheld Service Level Agreements, and Enforced HIPAA compliance. 
           * Performed basic workstation training and support for all employees.
       - layout: left
         title: Mellmo
@@ -150,20 +150,20 @@ content:
         description: |
           * Tested web and mobile applications. 
           * Supported clients with software issues. 
-          * Built multiple virtual linux servers using different distros to test enterprise application builds.
+          * Built multiple virtual Linux servers using different distros to test enterprise application builds.
   - title: Technical Skills
     layout: text
     content: |
       Here is a list of some of my skills:
       - **Command Line Ninja!**
-      - **CI/CD:** Github Actions, Jenkins and RunDeck.
+      - **CI/CD:** Github Actions, Jenkins, and RunDeck.
       - **Cloud Platform:** AWS
-      - **Operating Systems:** Ubuntu, Debian, Centos and Red Hat.
+      - **Operating Systems:** Ubuntu, Debian, Centos, and Red Hat.
       - **APIs:** AWS, Slack, Jira, Confluence, ServiceNow, and PagerDuty.
       - **Languages:** Bash, Ruby, Python, and Go.
       - **Infrastructure as code:** Boto3, Terraform, Cloudformation, AWS CDK, and Elastic Beanstalk.
       - **Configuration Management:** Chef/Chef Zero, Habitat, Packer, and Capistrano.
-      - **Testing:** Pytest, Selenium, Test-Kitchen, Vagrant and Inspec.
+      - **Testing:** Pytest, Selenium, Test-Kitchen, Vagrant, and Inspec.
       - **Data Science:** Pandas
       - **Containers:** Docker, ECS, and Kubernetes.
       - **Serverless:** Lambda

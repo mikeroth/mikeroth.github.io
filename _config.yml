@@ -94,7 +94,7 @@ content:
           solutions.
           * Infrastructure as code: Every project I worked on was fully automated and could not be manually setup. 
           * Owned production alerts and acted as the point of contact for all infrastructure or application incidents.
-          * Saved the company millions of dollars by removing unnecessary resources in AWS and rightsizing aws resources.
+          * Saved the company millions of dollars by removing unnecessary resources in AWS and rightsizing AWS resources.
           * Collaborated with peers on the development of new automation tools and services used in the management and maintenance
           of various virtual environments.
           * Consulted and contributed to system architecture. 
@@ -135,8 +135,8 @@ content:
           The DevOps philosophy was bestowed upon me here.
         description: |
           * Created and managed security systems for the Building, Network, Workstations, and Servers. 
-          * Tested and troubleshooted hardware, software and network connectivity issues. 
-          * Documented installations, application/system maintenance, hardware devices and end user support. 
+          * Tested and troubleshot hardware, software, and network connectivity issues. 
+          * Documented installations, application/system maintenance, hardware devices, and end user support. 
           * Managed, defined, upheld Service Level Agreements and Enforced HIPAA compliance. 
           * Performed basic workstation training and support for all employees.
       - layout: left
@@ -148,7 +148,7 @@ content:
         quote: >
           If you can think outside the box, you can find bugs for days.
         description: |
-          * Tested web and mobile application. 
+          * Tested web and mobile applications. 
           * Supported clients with software issues. 
           * Built multiple virtual linux servers using different distros to test enterprise application builds.
   - title: Technical Skills

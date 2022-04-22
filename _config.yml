@@ -61,11 +61,23 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Autodesk
+        link: autodesk.com
+        link_text: autodesk.com
+        sub_title: Principal Infrastructure Engineer
+        caption: Dec 2021 - Present
+        quote: >
+            Kubernetes clusters everywhere!
+        description: |
+          * Responsible for availability, performance, efficiency, monitoring, emergency response, and capacity planning for legacy and new services.
+          * Managing Kubernetes clusters on the core infrastrcuture team.
+          * Automating Kubernetes applications, workflows and the infra strucutre itself.
+      - layout: left
         title: Lemonaid Health
         link: lemonaidhealth.com
         link_text: lemonaidhealth.com
         sub_title: Site Reliability Engineer
-        caption: July 2021 - Present
+        caption: July 2021 - Dec 2021
         quote: >
             To break down barriers that limit people from getting quality healthcare, empowering them to live happier lives.
         description: |

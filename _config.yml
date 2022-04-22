@@ -71,7 +71,8 @@ content:
         description: |
           * Responsible for availability, performance, efficiency, monitoring, emergency response, and capacity planning for legacy and new services.
           * Managing Kubernetes clusters on the core infrastrcuture team.
-          * Automating Kubernetes applications, workflows and the infra strucutre itself.
+          * Automating Kubernetes applications and workflows.
+          * Sticking to GitOps and Infrastructure as code because this is the way.
       - layout: left
         title: Lemonaid Health
         link: lemonaidhealth.com

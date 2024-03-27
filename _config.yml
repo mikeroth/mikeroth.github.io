@@ -64,6 +64,7 @@ about_content: | # this will include new lines to allow paragraphs
   When it comes to my superhero skills, I wield the powers of <mark>AWS</mark> and <mark>Kubernetes</mark> 
   with unmatched expertise. Ready to infuse a dose of fun and professionalism into your tech universe? 
   Let's connect and make magic happen! ✨
+  
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)

@@ -48,23 +48,14 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  👋  Hello there! I'm Mike, your go-to Site Reliability Engineer, DevOps Maestro, and Platform Engineer
-  all rolled into one. With a toolkit of finely sharpened skills, I'm on a mission to architect solutions 
-  that turbocharge efficiency, elevate performance, and fortify security for businesses.
+  👋 Hi! I'm Mike and I'm a Site Reliability Engineer. I use my well-honed skills to build solutions, improve companies' overall efficiency,
+  performance, and security. Recognized as an efficient and creative professional with solid multitasking capabilities.
+  I'm a skilled troubleshooter comfortable managing systems and projects in a range of IT environments. Aside from automating everything,
+  I also have experience in making software and web apps that are still heavily used today. Also since I have worked at a number of companies I
+  have gained a lot of valuable teamwork and leadership skills.
 
-  Regarded as a powerhouse of efficiency fused with a spark of creativity, I thrive in the art of balancing
-  multiple priorities with grace and precision. Navigating through the complexities of various IT landscapes, 
-  I've become a master troubleshooter and a champion of system and project management. My enthusiasm for automation
-  has not only streamlined operations but has also led me to create impactful software and web applications 
-  that continue to serve as industry benchmarks.
+  I am most skilled in: <mark>AWS</mark> and <mark>Eating Tacos!</mark>
 
-  My journey through a mosaic of organizations has been nothing short of an adventure, 
-  enriching me with a treasure trove of teamwork acumen and leadership finesse.
-
-  When it comes to my superhero skills, I wield the powers of <mark>AWS</mark> and <mark>Kubernetes</mark> 
-  with unmatched expertise. Ready to infuse a dose of fun and professionalism into your tech universe? 
-  Let's connect and make magic happen! ✨
-  
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -78,13 +69,10 @@ content:
         quote: >
             Kubernetes clusters everywhere!
         description: |
-          * Tasked with ensuring the optimal availability, performance, and efficiency of both legacy and new services, encompassing monitoring, emergency response, and strategic capacity planning.
-          * Entrusted with the management of Kubernetes clusters as part of the core infrastructure team, emphasizing stability and scalability.
-          * Spearheading the automation of Kubernetes application deployments to streamline operational workflows and enhance deployment efficiency.
-          * Championing the automation of various workflows, facilitating a seamless and efficient operational environment.
-          * Pioneering the development of Kubernetes Controllers using Go Lang, contributing to enhanced automation and management capabilities within the Kubernetes ecosystem.
-          * Adhering to GitOps and Infrastructure as Code principles to maintain consistency, reliability, and version control in infrastructure management, reinforcing best practices and operational excellence.
-          * I provided training, mentorship, and support to junior team members, fostering their professional development and integration into the team.
+          * Responsible for availability, performance, efficiency, monitoring, emergency response, and capacity planning for legacy and new services.
+          * Managing Kubernetes clusters on the core infrastrcuture team.
+          * Automating Kubernetes applications and workflows.
+          * Sticking to GitOps and Infrastructure as code because this is the way.
       - layout: left
         title: Lemonaid Health
         link: lemonaidhealth.com
@@ -94,36 +82,42 @@ content:
         quote: >
             To break down barriers that limit people from getting quality healthcare, empowering them to live happier lives.
         description: |
-         * Accountable for ensuring the utmost availability, performance, and efficiency of services, incorporating change management, comprehensive monitoring, prompt emergency response, and meticulous capacity planning.
-         * Committed to adhering to Infrastructure as Code (IaC) methodologies, ensuring scalable, manageable, and version-controlled infrastructure provisioning.
-         * Diligently ensuring adherence to Service Level Agreements (SLAs) to maintain high-quality service delivery and customer satisfaction.
-         * Collaborating closely with the security team to ensure full compliance with relevant standards and regulations, safeguarding the integrity and confidentiality of data.
-         * Focused on automating routine and repetitive tasks, significantly reducing manual effort and optimizing operational efficiency.
+          * Responsible for availability, performance, efficiency, change management, monitoring, emergency response, and capacity planning.
+          * Sticking to Infrastructure as code.
+          * Making sure we stick to our SLA.
+          * Working with security to make sure we are compliant.
+          * Automating all the toil.
       - layout: left
         title: Autodesk
         link: autodesk.com
         link_text: autodesk.com
-        sub_title: Principal Software Engineer
+        sub_title: Principal Site Reliability Engineer
         caption: February 2016 - May 2021
         quote: >
           Make anything but make it immutable!
         description: |
-         * Engineered and implemented automation processes that empowered teams to deploy, manage, configure, test, scale, and monitor their applications efficiently using advanced tooling or scripting, significantly accelerating the delivery of new features to production.
-         * Enhanced automated testing and simulation frameworks to improve accuracy and reliability in software testing processes.
-         * Designed and deployed Docker containers to transition from monolithic architectures to microservices, thereby enhancing developer workflow, scalability, and execution speed.
-         * Developed custom monitoring plugins and seamlessly integrated monitoring strategies into deployment workflows, leading to the creation of self-regulating solutions.
-         * Advocated for and implemented Infrastructure as Code (IaC) practices across all projects, ensuring complete automation and eliminating manual setup processes.
-         * Took ownership of production alerts, serving as the primary contact for addressing and resolving infrastructure or application incidents.
-         * Achieved significant cost savings for the company by identifying and eliminating superfluous AWS resources and optimizing the sizing of AWS assets.
-         * Collaborated with colleagues on the innovation of new automation tools and services, contributing to the efficient management and upkeep of diverse virtual environments.
-         * Provided expert consultation on system architecture, contributing to the strategic planning and design of robust technological frameworks.
-         * Formulated and automated standard operating procedures for common failure scenarios, enhancing system resilience.
-         * Conducted thorough monitoring, analysis, and reporting of performance metrics for cloud-hosted environments and applications, ensuring optimal performance.
-         * Contributed to the development of application features and enhancements, prioritizing functionality and user experience.
-         * Committed to writing clean, well-documented, and resilient code, adhering to best practices in software development.
-         * Oversaw the management and maintenance of databases utilizing MySQL, Postgres, and DynamoDB, ensuring data integrity and availability.
-         * Managed and scaled the infrastructure for QA, Development, Staging, and Production environments, supporting over 5 million monthly users, ensuring high availability and performance.
-                - layout: left
+          * Developed automation processes to enable teams to deploy,
+          manage, configure, test, scale and monitor their applications through the use of tooling or scripting reducing the time to
+          get features in production. 
+          * Improved automated test and simulation frameworks. 
+          * Built and deployed Docker containers to
+          break up monolithic applications into microservices, improving developer workflow, increasing scalability, and optimizing
+          speed. 
+          * Wrote custom monitoring plugins and integrated monitoring methods into deployment processes to develop self-healing
+          solutions.
+          * Infrastructure as code: Every project I worked on was fully automated and could not be manually set up. 
+          * Owned production alerts and acted as the point of contact for all infrastructure or application incidents.
+          * Saved the company millions of dollars by removing unnecessary resources in AWS and rightsizing AWS resources.
+          * Collaborated with peers on the development of new automation tools and services used in the management and maintenance
+          of various virtual environments.
+          * Consulted and contributed to system architecture. 
+          * Developed and automated standard operating procedures around common failure scenarios. 
+          * Monitored, analyzed, and reported performance statistics for cloud-hosted environments and applications. 
+          * Developed application features, improvements.
+          * Wrote clean, well-documented, and resilient code.
+          * Managed and maintained databases for MySQL, Postgres, and DynamoDB.
+          * Maintained, and scaled infrastructure for QA, Dev, Stage, and Production environments for 5 million monthly users.
+      - layout: left
         title: Taos
         link: taos.com
         link_text: taos.com
@@ -132,21 +126,20 @@ content:
         quote: >
           Out with the old, in with the new.
         description: |
-         * Served on the SaaS team at Autodesk, where I played a pivotal role in enhancing the company's cloud-based offerings.
-         * I facilitated the migration of applications from traditional data centers to AWS, streamlining the process by implementing comprehensive automation for all related tasks.
-         * Led the transformation of their monitoring system, refined metrics, augmented logging capabilities, and fostered improved communication channels across various teams, contributing to a more cohesive and efficient operational framework.
-         * Successfully deployed and ensured the ongoing maintenance of several key company applications, ensuring their optimal performance and reliability.
-         * Provided dedicated support to engineers on automation-related challenges, aiding in the resolution of issues and the advancement of automation practices within the team.
-    - layout: left
+          * Worked at Autodesk on their SAAS team. 
+          * Converted their monitoring system, metrics, logging, and improved communication throughout different teams. 
+          * Deployed and maintained a handful of company applications.
+          * Helped engineers with any automation issues.
+      - layout: left
         title: Advantis Global
         sub_title: DevOps Engineer
         caption: April 2014 - September 2014
         quote: >
           Different colored apples everywhere.
         description: |
-         * Supported the development team in crafting an internal tool designed to oversee Apple's complete phone support ecosystem.
-         * Engineered a Chef Server from scratch within a constrained environment to ensure its seamless operation in a production setting.
-         * Provided guidance to various departments in integrating their projects, facilitating smooth onboarding processes.
+          * Assisted development team on creating an internal tool that monitored Apple's entire phone support system.
+          * Created a Chef Server in a tight environment from source so it would run in production. 
+          * Assisted different departments on, on-boarding their projects.
       - layout: left
         title: OneHealth Solutions
         sub_title: Junior DevOps Engineer
@@ -168,34 +161,33 @@ content:
         quote: >
           If you can think outside the box, you can find bugs for days.
         description: |
-         * Developed and oversaw the implementation of comprehensive security protocols for the infrastructure encompassing buildings, datacenter, networks, and workstations.
-         * Conducted thorough testing and troubleshooting of hardware, software, and network connectivity to ensure optimal operational efficiency.
-         * Meticulously documented the procedures for installations, maintenance of applications/systems, hardware devices, and provided detailed guides for end-user support.
-         * Administered Service Level Agreements (SLAs), ensuring they were consistently met and maintained, while also ensuring strict adherence to HIPAA regulations for data privacy and security.
-         * Delivered fundamental workstation training and support to all employees, enhancing their proficiency and ensuring smooth daily operations.
+          * Tested web and mobile applications. 
+          * Supported clients with software issues. 
+          * Built multiple virtual Linux servers using different distros to test enterprise application builds.
   - title: Technical Skills
     layout: text
     content: |
       Here is a list of some of my skills:
-      * Adept at command line interfaces, executing intricate operations effortlessly.
-      * Proficient in Continuous Integration and Continuous Deployment (CI/CD) with tools like Argo Workflows, GitHub Actions, Jenkins, RunDeck, and an in-depth understanding of Kubernetes for orchestrating containers.
-      * Well-versed in cloud platforms, specifically AWS and Azure, for managing robust cloud infrastructures.
-      * Knowledgeable across a variety of operating systems, including Ubuntu, Debian, CentOS, and Red Hat.
-      * Skilled in leveraging APIs for AWS, Slack, Jira, Confluence, PagerDuty, Jfrog Artifactory, and integrating with Bitbucket for source control and collaboration.
-      * Fluent in coding with Bash, Ruby, Python, and Go.
-      * Expert in Infrastructure as Code (IaC), utilizing AWS ACK controllers, various Kubernetes controllers including Kubebuilder for extending Kubernetes, Boto3, Terraform, Terragrunt, CloudFormation, AWS CDK, and Elastic Beanstalk.
-      * Experienced in configuration management with Chef/Chef Zero, Habitat, Packer, and Capistrano.
-      * Competent in testing methodologies using Ginkgo, Pytest, Selenium, Test-Kitchen, Vagrant, and Inspec.
-      * Familiar with data science tasks, employing Pandas for data analysis and manipulation.
-      * Proficient in container technologies like Docker, ECS, Kubernetes, and utilizing Jfrog Artifactory for artifact management and distribution.
-      * Knowledgeable in serverless frameworks, particularly AWS Lambda.
-      * Experienced in managing web and application servers, including Apache, Nginx, Passenger, Puma, Unicorn, Flask, Quart, and Tomcat.
-      * Skilled in database management with systems such as MySQL, Postgres, and DynamoDB.
-      * Proficient in message brokering with RabbitMQ and caching solutions with ElastiCache Redis.
-      * Well-versed in security protocols and tools, including LDAP, AuditD, OpenVas, Rkhunter, Chkrootkit, Nexpose, Snort, Squirt, and ClamAV.
-      * Skilled in version control using Git and SVN, and experienced with Bitbucket for repository management.
-      * Experienced in web frameworks like Rails, Jekyll, and Drupal.
-      * Adept at system and infrastructure monitoring with tools such as the ELK Stack, NewRelic, Nagios, Sensu, CloudWatch, Splunk, God, Monit, Grafana, and PagerDuty.
+      - **Command Line Ninja!**
+      - **CI/CD:** Github Actions, Jenkins, and RunDeck.
+      - **Cloud Platform:** AWS
+      - **Operating Systems:** Ubuntu, Debian, Centos, and Red Hat.
+      - **APIs:** AWS, Slack, Jira, Confluence, ServiceNow, and PagerDuty.
+      - **Languages:** Bash, Ruby, Python, and Go.
+      - **Infrastructure as code:** Boto3, Terraform, Cloudformation, AWS CDK, and Elastic Beanstalk.
+      - **Configuration Management:** Chef/Chef Zero, Habitat, Packer, and Capistrano.
+      - **Testing:** Pytest, Selenium, Test-Kitchen, Vagrant, and Inspec.
+      - **Data Science:** Pandas
+      - **Containers:** Docker, ECS, and Kubernetes.
+      - **Serverless:** Lambda
+      - **Web/Application Servers:** Apache, Nginx, Passenger, Puma, Unicorn, Flask, Quart, and Tomcat.
+      - **Databases:** MySQL, PostreSQL, and DynamoDB.
+      - **Message Broker:** RabbitMQ
+      - **ElastiCache:** Redis
+      - **Security:** LDAP, AuditD, OpenVas, Rkhunter, Chkrookit, Nexpose, Snort, Squirt, and ClamAV.
+      - **VCS:** Git and SVN.
+      - **Web Frameworks:** Rails, Jekyll, and Drupal.
+      - **System/Infra Monitoring:** ELK Stack, NewRelic, Nagios, Sensu, CloudWatch, Splunk, God, Monit, Grafana, and PagerDuty.
   - title: Certifications
     layout: text
     content: |
@@ -212,7 +204,7 @@ content:
       - 🌿 Gardening
       - 🌮 Cooking
       - 🚘 Cars
-      - 🌀 3D Printing
+      - 🎮 Street Fighter
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)

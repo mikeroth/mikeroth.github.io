@@ -48,13 +48,22 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  👋 Hi! I'm Mike and I'm a Site Reliability Engineer. I use my well-honed skills to build solutions, improve companies' overall efficiency,
-  performance, and security. Recognized as an efficient and creative professional with solid multitasking capabilities.
-  I'm a skilled troubleshooter comfortable managing systems and projects in a range of IT environments. Aside from automating everything,
-  I also have experience in making software and web apps that are still heavily used today. Also since I have worked at a number of companies I
-  have gained a lot of valuable teamwork and leadership skills.
+  👋  Hello there! I'm Mike, your go-to Site Reliability Engineer, DevOps Maestro, and Platform Engineer
+  all rolled into one. With a toolkit of finely sharpened skills, I'm on a mission to architect solutions 
+  that turbocharge efficiency, elevate performance, and fortify security for businesses.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Tacos!</mark>
+  Regarded as a powerhouse of efficiency fused with a spark of creativity, I thrive in the art of balancing
+  multiple priorities with grace and precision. Navigating through the complexities of various IT landscapes, 
+  I've become a master troubleshooter and a champion of system and project management. My enthusiasm for automation
+  has not only streamlined operations but has also led me to create impactful software and web applications 
+  that continue to serve as industry benchmarks.
+
+  My journey through a mosaic of organizations has been nothing short of an adventure, 
+  enriching me with a treasure trove of teamwork acumen and leadership finesse.
+
+  When it comes to my superhero skills, I wield the powers of <mark>AWS</mark> and <mark>Kubernetes</mark> 
+  with unmatched expertise. Ready to infuse a dose of fun and professionalism into your tech universe? 
+  Let's connect and make magic happen! ✨
 
 content:
   - title: Experience # Title for the section

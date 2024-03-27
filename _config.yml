@@ -73,15 +73,18 @@ content:
         title: Autodesk
         link: autodesk.com
         link_text: autodesk.com
-        sub_title: Principal Infrastructure Engineer
+        sub_title: Principal Software Engineer
         caption: Dec 2021 - Present
         quote: >
             Kubernetes clusters everywhere!
         description: |
-          * Responsible for availability, performance, efficiency, monitoring, emergency response, and capacity planning for legacy and new services.
-          * Managing Kubernetes clusters on the core infrastrcuture team.
-          * Automating Kubernetes applications and workflows.
-          * Sticking to GitOps and Infrastructure as code because this is the way.
+          * Tasked with ensuring the optimal availability, performance, and efficiency of both legacy and new services, encompassing monitoring, emergency response, and strategic capacity planning.
+          * Entrusted with the management of Kubernetes clusters as part of the core infrastructure team, emphasizing stability and scalability.
+          * Spearheading the automation of Kubernetes application deployments to streamline operational workflows and enhance deployment efficiency.
+          * Championing the automation of various workflows, facilitating a seamless and efficient operational environment.
+          * Pioneering the development of Kubernetes Controllers using Go Lang, contributing to enhanced automation and management capabilities within the Kubernetes ecosystem.
+          * Adhering to GitOps and Infrastructure as Code principles to maintain consistency, reliability, and version control in infrastructure management, reinforcing best practices and operational excellence.
+          * I provided training, mentorship, and support to junior team members, fostering their professional development and integration into the team.
       - layout: left
         title: Lemonaid Health
         link: lemonaidhealth.com
